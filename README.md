@@ -10,11 +10,11 @@ A end-to-end data analysis project predicting customer churn for the **Model Fit
 
 | Executive Overview | Cluster Profile |
 |---|---|
-| ![Executive Overview](report/screenshots/p1_executive_overview.png) | ![Cluster Profile](report/screenshots/p2_cluster_profile.png) |
+| ![Executive Overview](reports\screenshots\p1_executive_overview.png) | ![Cluster Profile](reports\screenshots\p2_cluster_profile.png) |
 
 | Churn Analysis | Retention Strategy |
 |---|---|
-| ![Churn Analysis](report/screenshots/p3_churn_analysis.png) | ![Retention Strategy](report/screenshots/p4_retention_strategy.png) |
+| ![Churn Analysis](reports\screenshots\p3_churn_analysis.png) | ![Retention Strategy](reports\screenshots\p4_retention_strategy.png) |
 
 ---
 
